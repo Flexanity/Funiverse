@@ -1,2 +1,2 @@
 # Funiverse
-Movie trivia app.
+A Movie trivia app.
