@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351725291586",
+    "project_id": "funiverse-17e83",
+    "storage_bucket": "funiverse-17e83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351725291586:android:6e5694d195350f3a3145db",
+        "android_client_info": {
+          "package_name": "com.example.funiverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD04lcYMdgH_xKtsybhS6wYUwNvLr1v7uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
